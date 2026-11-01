@@ -33,3 +33,18 @@ Claude، ChatGPT یا Cursor را به ترازیا وصل کنید و به زب
 ```bash
 claude mcp add --transport http tarazia https://tarazia.online/mcp \
   --header "Authorization: Bearer dk_xxxxxxxxxxxxxxxx"
+
+
+📘 راهنمای اتصال و فهرست ابزارها
+
+🛒 افزونه‌ی ووکامرس
+همگام‌سازی سفارش‌ها، فاکتور و موجودی فروشگاه وردپرسی با ترازیا.
+
+<p align="center">۱۴ روز رایگان امتحان کنید: <a href="https://tarazia.online">tarazia.online</a></p>
+
+
+**قبل از گذاشتن این متن، دو چیز را تأیید کنید:**
+1. آدرس سرور MCP را `https://tarazia.online/mcp` نوشتم، چون در کد صفحه‌ی MCP مسیر `/mcp` آمده است. یک بار در صفحه‌ی `/developers/mcp` روی سایت چک کنید که همین باشد.
+2. بخش ووکامرس فقط وقتی بماند که افزونه را عمومی یا قابل دانلود کرده‌اید. اگر نه، حذفش کنید یا لینکش را بدهید تا اضافه کنم.
+
+اگر بخواهید، ریپوی `tarazia/examples` را هم با نمونه‌کدهای واقعی از روی همین API می‌سازم.
